@@ -1,5 +1,5 @@
 # Heart Disease Prediction Using Logistic Regression
-
+![Model Performance](h1.jpg) 
 This project is aimed at predicting the likelihood of coronary heart disease (CHD) in individuals over the next ten years using Logistic Regression. The dataset includes various health-related features to predict whether a patient will develop CHD (`1`) or not (`0`).
 
 ## Table of Contents
